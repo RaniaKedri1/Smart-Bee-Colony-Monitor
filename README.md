@@ -24,6 +24,7 @@ This project uses machine learning to:
 
 Beehive sound dataset:  
 [Kaggle - Beehive Sounds Dataset](https://www.kaggle.com/datasets/annajyang/beehive-sounds)
+After downloading, place the extracted audio files into the `sound_files/` directory included in this repository:
 
 ## 🚀 Key Features
 
